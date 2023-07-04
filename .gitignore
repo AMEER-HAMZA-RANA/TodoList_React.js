@@ -5,8 +5,13 @@
 /.pnp
 .pnp.js
 
+.gitignore
+
 # testing
 /coverage
+
+#filter-button-file
+./components/FilterButton.js
 
 # production
 /build
